@@ -20,5 +20,5 @@ Como primeiro projeto básico de todos que estão na carreira de dados, sejam en
 Dito isso, vamos aos dados!
 
 ### 1 - Obtenção básica dos dados
-  Para Obtenção dos dados que serão utilizados no projeto, temos databases já prontos na internet. Vamos utilizar um disponibilizado no [Kaggle](https://www.kaggle.com/competitions/titanic/data?select=train.csv), e disponibilizá-lo através deste [arquivo] no nosso repositório.
+  Para Obtenção dos dados que serão utilizados no projeto, temos databases já prontos na internet. Vamos utilizar um disponibilizado no [Kaggle](https://www.kaggle.com/competitions/titanic/data?select=train.csv), e disponibilizá-lo através deste [arquivo](https://github.com/gabrielp15/titanic_view/blob/539eaaf020681f1d3a2cbd277c5e60a0daf0a603/databse.csv) no nosso repositório.
 Podemos verificar que temos uma considerável quantidade de dados, distribuidas em 25 colunas, e 891 linhas, com diversos dados, e em diversos formatos.
