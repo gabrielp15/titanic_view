@@ -51,6 +51,8 @@ Dito isso, vamos adiante!
 
 #### Células vazias no nosso DB
 Através do comando `data.count()`podemos verificar a quantidade de células vazias que existem em cada coluna.
+
 ![image](https://user-images.githubusercontent.com/104700476/233999734-455ed2c8-11ef-4c56-be80-593de9cd0d7a.png)
+
 Feito isso, vamos utilizar o comando 
 
